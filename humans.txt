@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Albert Tan albert.tan@sfihealth.com @sfitester
 
 # THANKS
 
